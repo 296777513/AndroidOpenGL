@@ -38,5 +38,5 @@ task clean(type: Delete) {
 
 //kotlin类库上传
 //非常重要 要不它不认识你的项目.kt文件名 其中basetools是你的library名
-tasks.getByPath(":alpha-mp4-player:releaseAndroidJavadocs").enabled = false
+//tasks.getByPath(":alpha-mp4-player:releaseAndroidJavadocs").enabled = false
 tasks.getByPath(":multiple-stream-glview:releaseAndroidJavadocs").enabled = false
