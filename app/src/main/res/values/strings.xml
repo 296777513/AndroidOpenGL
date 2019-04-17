@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KnightPlayer</string>
+    <string name="permission_describe">"为了应用可以正常使用，请您点击确认申请权限。"</string>
+    <string name="positive">允许</string>
+    <string name="negative">取消</string>
+    <string name="title">提示</string>
+</resources>
